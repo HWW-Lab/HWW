@@ -1,0 +1,2 @@
+debian/bin/HWWd usr/bin
+src/HWWd usr/lib/HWW

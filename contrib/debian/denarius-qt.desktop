@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=HWW
+Comment=HWW P2P Cryptocurrency
+Comment[fr]=HWW, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=HWW, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/HWW
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/HWW;
+Categories=Office;
